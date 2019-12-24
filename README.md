@@ -1,0 +1,1 @@
+Sample ARM template to create an Azure DevOps organization.
